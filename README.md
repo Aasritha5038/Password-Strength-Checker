@@ -23,7 +23,7 @@ The Password Strength Checker is a Python application that analyzes a user's pas
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Password-Strength-Checker.git
+git clone https://github.com/Aasritha5038/Password-Strength-Checker.git
 ```
 
 2. Open the project folder
